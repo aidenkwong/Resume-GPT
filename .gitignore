@@ -1,0 +1,9 @@
+.env
+.env.local
+
+node_modules
+
+output/**/*
+
+input/job_description.txt
+input/resume.txt
