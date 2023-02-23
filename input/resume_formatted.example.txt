@@ -1,0 +1,40 @@
+Aiden Kwong
+Software Engineer | TypeScript | Fullstack Toronto, ON
+(eligible to work in Canada without sponsorship)
+
+Email: aidenkwong5@gmail.com Mobile: (437) 299-8950
+LinkedIn: linkedin.com/in/aidenkwong GitHub: github.com/AidenKwong
+
+TECHNICAL SKILLS
+Programming Languages: TypeScript, JavaScript, Python, Java, HTML, CSS 
+Technologies: React, Vue, Node.js, Express, Docker, AWS
+Databases: MySQL, PostgreSQL, MongoDB, Redis, ElasticSearch
+Operating Systems: Linux, macOS, Windows
+
+SUMMARY
+I'm a software engineer who is passionate about building software that leverages the latest technologies to solve real-world problems. My expertise lies in building web applications using React and Node.js and my language of choice is TypeScript. I have experience working in startups and contributing to open-source projects, and I’m a life-long learner.
+
+WORK EXPERIENCE
+Software Engineer - TypeScript, Vue, Flutter, Node.js, MySQL, AWS 
+May 2022 to Dec 2022 Aigniter Technologies Limited
+● Spearheaded the development of robust e-commerce and logistics products, serving a vast user base with Flutter, Vue, and Node.js with a teams of 3-5 software engineers throughout the SDLC, ensuring timely delivery and high-quality work. Utilized GitLab for efficient DevOps and AWS for secure deployment, contributing to improved service reliability.
+● Ensured secure data transmission and an enhanced user experience by implementing REST API services and authentication with Node.js, as well as incorporating Firebase Cloud Messaging notifications. Significantly reduced navigation time by 30 seconds through the integration of ElasticSearch for a full-text search engine, resulting in improved user satisfaction and retention.
+● Optimized the development workflow by introducing CI/CD pipelines, docker, and ECS, reducing repetitive tasks and ensuring consistency. Boosted team productivity and service reliability while maintaining a user-centric approach. Successfully delivered robust products that met clients' requirements and exceeded expectations in terms of user-friendliness and functionality.
+
+Data Visualization Developer (Internship) - TypeScript, React, Node.js, PostgreSQL 
+Jan 2022 to Mar 2022 Chartipedia
+● Designed and developed captivating scrollytelling websites, leveraging d3.js and other related frameworks and libraries, to create interactive data visualizations and user interfaces that captivated and engaged a broad audience. Successfully attracted thousands of followers on social media, driving brand awareness and engagement while effectively communicating complex information to a diverse range of users.
+
+EDUCATION
+Bachelor of Mechanical and Automation Engineering 
+The Chinese University of Hong Kong
+
+OTHER SKILLS
+Sep 2017 to Jul 2022
+Languages: English, Cantonese, Mandarin
+Soft Skills: Team Player, Problem Solver, Open-Minded, Accountability, Time Management, Empathy
+
+HOBBY PROJECTS
+- Personal Website | A website about me
+- Dezktop | A website that acts as a home page for browser
+- YouTube Popular Video Archiver | A server archives global YouTube popular videos daily

@@ -1,4 +1,6 @@
 {
+  "useInfoFile": true,
+  "infoFile": "info.txt",
   "isDefaultPrompt": true,
   "customPromptFilename": "custom_prompt.txt"
 }

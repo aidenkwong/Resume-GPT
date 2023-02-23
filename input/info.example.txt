@@ -1,0 +1,79 @@
+Name: Aiden Kwong
+Email: aidenkwong5@gmail.com
+Phone: (437) 299-8950
+Location: Toronto, ON
+LinkedIn: https://linkedin.com/in/aidenkwong/
+GitHub: https://github.com/AidenKwong/
+Portfolio: https://aidenkwong.me/
+
+Tag Line: Software Engineer | TypeScript | Fullstack
+
+
+Technical Skills:
+    Programming Languages:
+        - TypeScript (Professional)
+        - JavaScript (Professional)
+        - Python (Pofessional)
+        - Java (Little Exposure)
+        - Go (Little Exposure)
+    Database:
+        - MySQL
+        - PostgreSQL
+        - MongoDB
+        - Redist
+        - ElasticSearch
+    Cloud Provider:
+        - AWS
+            - EC2
+            - S3
+            - RDS
+            - ECS
+            - VPC
+    Technologies:
+        - JavaScript
+            - Node.js
+            - React.js
+            - Vue.js
+            - Express.js
+        - Go
+            - Gin
+            - Gorilla Mux
+        - Docker
+        - Git
+    Other:
+        - Linux Commands
+
+Summary:
+I'm a software engineer who is passionate about building software that leverages the latest technologies to solve real-world problems. My expertise lies in building web applications using React and Node.js and my language of choice is TypeScript. I'm a lifelong learner and I'm always looking for opportunities to improve my skills and learn new technologies.
+
+Work Experience:
+    Software Engineer:
+        Time: May 2022 to Dec 2022
+        Work Type: Full-time
+        Company: Aigniter Holdings
+        Tech Stack: TypeScript, Node.js, AWS, MySQL
+        Accomplishments:
+            - Spearheaded the development of robust e-commerce and logistics products, serving a vast user base with Flutter, Vue, and Node.js with ateams of 3-5 software engineers throughout the SDLC, ensuring timely delivery and high-quality work. Utilized GitLab for efficient DevOps and AWS for secure deployment, contributing to improved service reliability.
+            - Ensured secure data transmission and an enhanced user experience by implementing REST API services and authentication with Node.js, as well as incorporating Firebase Cloud Messaging notifications. Significantly reduced navigation time by 30 seconds through the integration of ElasticSearch for a full-text search engine, resulting in improved user satisfaction and retention.
+            - Optimized the development workflow by introducing CI/CD pipelines, docker, and ECS, reducing repetitive tasks and ensuring consistency. Boosted team productivity and service reliability while maintaining a user-centric approach. Successfully delivered robust products that met clients' requirements and exceeded expectations in terms of user-friendliness and functionality.
+    Data Visualization Developer:
+        Time: Jan 2022 to Mar 2022
+        Work Type: Internship
+        Company: Chartipedia
+        Tech Stack: TypeScript, Node.js, PostgreSQL
+        Accomplishments:
+            - Designed and developed captivating scrollytelling websites, leveraging d3.js and other related frameworks and libraries, to create interactive data visualizations and user interfaces that captivated and engaged a broad audience. Successfully attracted thousands of followers on social media, driving brand awareness and engagement while effectively communicating complex information to a diverse range of users.
+
+Education:
+    The Chinese University of Hong Kong:
+        Time: Sep 2017 to May 2022
+        Degree: Bachelor of Mechanical and Automation Engineering
+
+Other Skills:
+Languages: English, Cantonese, Mandarin
+Soft Skills: Team Player, Problem Solver, Open-Minded, Accountability, Time Management, Empathy
+
+HOBBY PROJECTS
+- [Personal Website](https://aidenkwong.me) | A website about me
+- [Dezktop](https://dezktop.vercel.app) | A website that acts as a home page for browser
+- [YouTube Popular Video Archiver](https://ympv.live) | A server archives global YouTube popular videos daily

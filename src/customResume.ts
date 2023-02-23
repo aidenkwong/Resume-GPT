@@ -14,31 +14,21 @@ export interface Config {
 const config: Config = JSON.parse(
   await fs.readFile("./input/config.json", "utf8")
 );
-const useInfoFile = config.useInfoFile;
-const resumeOrInfo = useInfoFile
-  ? await fs.readFile("./input/info.txt", "utf8")
-  : await fs.readFile("./input/resume.txt", "utf8");
+const info = await fs.readFile("./input/resume.txt", "utf8");
 const jobDescription = await fs.readFile("./input/job_description.txt", "utf8");
-const defaultPrompt = await fs.readFile("./input/default_prompt.txt", "utf8");
-const customPrompt = await fs.readFile(
-  `./input/${config.customPromptFilename}`,
-  "utf8"
-);
 
 const prompt = `
-Act as applying for a job. 
-${useInfoFile ? "Below is the information about me" : "This is my resume"}
 """
-${resumeOrInfo}
+${info}
 """
-This is the job description.
+The above is my personal information and below is the job description.
 """
 ${jobDescription}
 """
-${config.isDefaultPrompt ? defaultPrompt : customPrompt}
+Based on the things in common in my personal information and the job description, write a resume for me. Don't include things that doesn't exist in my information.
 `;
-const temperature = 0;
-const max_tokens = 500;
+const temperature = 1;
+const max_tokens = 2048;
 
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY

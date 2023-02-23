@@ -7,3 +7,5 @@ output/**/*
 
 input/job_description.txt
 input/resume.txt
+input/info.txt
+input/resume_formatted.txt
